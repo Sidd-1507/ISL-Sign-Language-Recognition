@@ -1,0 +1,34 @@
+# Python environments
+venv/
+venv311/
+__pycache__/
+*.pyc
+
+# IDEs / macOS
+.DS_Store
+.vscode/
+.idea/
+
+# Large Datasets
+dataset/
+*.zip
+
+# PyTorch Models & Checkpoints
+*.pth
+*.pt
+checkpoints/
+models/
+
+# Outputs & Plots
+eval_outputs/
+plots/
+results/
+diagnosis_report.txt
+*.png
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Agent/AI folders
+.agents/
